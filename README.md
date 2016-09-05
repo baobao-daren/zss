@@ -1,0 +1,2 @@
+# zkWeb2.0
+zookeeper web页面监控工具，使用内置的H2数据库实现，感谢淘宝大神yasenagat提供zkWeb源码，本项目是在1.0的基础上进行的加工完善，使用maven打war包放在toncat下即可运行
